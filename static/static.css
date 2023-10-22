@@ -694,7 +694,6 @@ html {
     font-family: 'TildaSans';
     font-weight: 600;
     display: block;
-    text-align: center;
     font-weight: 500;
     font-size: 20px;
     line-break: normal;
@@ -711,7 +710,6 @@ html {
 
 .card-container .card-description {
     display: block;
-    text-align: center;
     font-size: 14px;
     color: #7b7b7b;
     line-height: 1.36;
