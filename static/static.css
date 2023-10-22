@@ -692,7 +692,7 @@ html {
 }
 
 .card-container .card-name {
-    font-family: TildaSans;
+    font-family: 'TildaSans';
     font-weight: 600;
     display: block;
     text-align: center;
