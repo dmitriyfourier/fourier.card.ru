@@ -533,7 +533,7 @@ template {
 body,
 html {
     position: relative;
-    font-family: Graphik, Helvetica Neue, Arial;
+    font-family: TildaSans, Helvetica Neue, Arial;
     height: 100%;
     width: 100%;
     text-rendering: optimizelegibility;
@@ -638,7 +638,7 @@ html {
 }
 
 .card-container.font-pt-roboto {
-    font-family: Roboto, Graphik, Helvetica Neue, Arial !important
+    font-family: Roboto, TildaSans, Helvetica Neue, Arial !important
 }
 
 .card-container .card-avatar {
@@ -692,6 +692,8 @@ html {
 }
 
 .card-container .card-name {
+    font-family: TildaSans;
+    font-weight: 600;
     display: block;
     text-align: center;
     font-weight: 500;
