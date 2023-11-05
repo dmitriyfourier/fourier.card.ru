@@ -101,7 +101,12 @@ html {
 }
 
 body {
-    margin: 0
+    margin: 0;
+    font-family: 'TildaSans', Helvetica Neue, Arial;
+}
+
+p{
+    font-family: 'TildaSans', Helvetica Neue, Arial;
 }
 
 main {
@@ -700,6 +705,7 @@ html {
     color: #000;
     padding-bottom: 3px
 }
+
 
 @media only screen and (min-width:768px) {
     .card-container .card-name {
